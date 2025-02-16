@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🐍 **Python Lover**  
+Enjoys coding, automation, data analysis, scripting, problem-solving, and exploring creative solutions.  
+🚗 **Car Enthusiast**  
+Interested in cars, innovation, sustainability, engineering, future mobility, and technology.  
+🏃 **Passionate Runner**  
+Loves long runs, endurance, training, progress, and the joy of running.  
